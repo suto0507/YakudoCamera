@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YakudoCamera</string>
+    <string name="view_photo">Photo</string>
+    <string name="button_photo">Photo</string>
+</resources>
